@@ -2,8 +2,8 @@
 Starter Webapp - Quotes
 #######################
 
-Himesh
-Evgeni
+Himesh - acknowledged
+Evgeni -  ack
 
 use allman style
 
